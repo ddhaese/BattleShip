@@ -3,7 +3,7 @@
 
 In deze tweede reeks oefeningen gaan we een zeeslag spel maken. Na afloop zal er zo uitzien:
 
-![Battleship.jpg: Screenshot zeeslag](Battleship.jpg "Zeeslag")
+![Battleship.jpg: Screenshot zeeslag](img/Battleship.jpg "Zeeslag")
 
 Deze zeeslag React component is bedoeld om in een side-bar ergens op een website te plaatsen om de bezoekers een tijdverdrijfje je te bieden wanneer ze ergens op moeten wachten of gewoon uit verveling. De afbeelding toont een basis versie van het spel,  later wordt de toepassing uitgebreid met extra opties zoals het bijhouden van scores in een noSQL databank.
 
